@@ -11,7 +11,7 @@ This project uses data provided by Motivate, a bike share system provider for ma
 
 The following descriptive statistics are computed :
 
-1. Popular times of travel 
+1. Popular times of travel
 
 2. Popular stations and trips
 
@@ -20,7 +20,9 @@ The following descriptive statistics are computed :
 4. User info
 
 ### Files used
-Include the files used
+-chicago.csv
+-new_york_city.csv
+-washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
